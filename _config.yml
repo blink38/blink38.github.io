@@ -1,9 +1,9 @@
-site: Sidey
+site: Blink38@home
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: Blink38@home
+description: Le blog de Blink38
 twitter:
-  username: #yourusername
+  username: spaby_
   card: summary
   creator: #yourusername
 author:
@@ -16,7 +16,7 @@ permalink: pretty
 
 baseurl: ""
 
-highlighter: none
+highlighter: rouge
 
 exclude:
   - .jekyll-cache
