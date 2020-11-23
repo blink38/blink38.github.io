@@ -1,0 +1,9 @@
+links:
+- title: Publication
+  url: /
+- title: A propos
+  url: /about
+- title: Rechercher
+  url: /search
+- title: Rss
+  url: /atom.xml
